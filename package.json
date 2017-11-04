@@ -15,7 +15,9 @@
   "devDependencies": {
     "alex": "^2.0.0",
     "coffeelint": "^1.14.2",
-    "remark": "^3.2.3"
+    "remark": "^8.0.0",
+    "remark-cli": "^4.0.0",
+    "remark-lint": "^6.0.1"
   },
   "package-deps": [
     "linter"
